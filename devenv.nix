@@ -16,6 +16,6 @@
   ];
 
   enterShell = ''
-    export RACK_DIR="./Rack-SDK"
+    export RACK_DIR="/home/damon/Dev/rack-modules/Rack-SDK"
   '';
 }
